@@ -1,0 +1,843 @@
+[
+  {
+    "steamId": "312200",
+    "name": "Chasm",
+    "developers": [
+      "Bit Kid, Inc."
+    ],
+    "publishers": [
+      "Bit Kid, Inc."
+    ],
+    "languages": [
+      "English",
+      "French",
+      "Italian",
+      "German",
+      "Portuguese - Brazil",
+      "Spanish - Latin America",
+      "Hungarian"
+    ],
+    "releaseDate": 1532923200000,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Indie",
+      "RPG"
+    ],
+    "price": 19.99,
+    "revenue": 1107756,
+    "reviews": 2221,
+    "reviewScore": 73,
+    "language count": 7
+  },
+  {
+    "steamId": "504230",
+    "name": "Celeste",
+    "developers": [
+      "Maddy Makes Games Inc.",
+      "Extremely OK Games, Ltd."
+    ],
+    "publishers": [
+      "Maddy Makes Games Inc."
+    ],
+    "languages": [
+      "English",
+      "French",
+      "Italian",
+      "German",
+      "Spanish - Spain",
+      "Japanese",
+      "Portuguese - Brazil",
+      "Russian",
+      "Simplified Chinese"
+    ],
+    "releaseDate": 1516856400000,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Indie"
+    ],
+    "price": 19.99,
+    "revenue": 17990584,
+    "reviews": 82304,
+    "reviewScore": 98,
+    "language count": 9
+  },
+  {
+    "steamId": "393520",
+    "name": "Iconoclasts",
+    "developers": [
+      "Joakim Sandberg"
+    ],
+    "publishers": [
+      "Bifrost Entertainment",
+      "DANGEN Entertainment",
+      "Gamera Games",
+      "INTRAGAMES CO., LTD."
+    ],
+    "languages": [
+      "English",
+      "French",
+      "German",
+      "Spanish - Spain",
+      "Japanese",
+      "Simplified Chinese",
+      "Traditional Chinese",
+      "Korean"
+    ],
+    "releaseDate": 1516683600000,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Indie"
+    ],
+    "price": 19.99,
+    "revenue": 1741345,
+    "reviews": 4150,
+    "reviewScore": 87,
+    "language count": 8
+  },
+  {
+    "steamId": "774361",
+    "name": "Blasphemous",
+    "developers": [
+      "The Game Kitchen"
+    ],
+    "publishers": [
+      "Team17"
+    ],
+    "languages": [
+      "English",
+      "French",
+      "Italian",
+      "German",
+      "Spanish - Spain",
+      "Simplified Chinese",
+      "Portuguese - Brazil",
+      "Russian",
+      "Japanese",
+      "Korean"
+    ],
+    "releaseDate": 1568088000000,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Indie"
+    ],
+    "price": 24.99,
+    "revenue": 15950978,
+    "reviews": 34893,
+    "reviewScore": 90,
+    "language count": 10
+  },
+  {
+    "steamId": "431940",
+    "name": "Wildfire",
+    "developers": [
+      "Sneaky Bastards"
+    ],
+    "publishers": [
+      "Humble Games"
+    ],
+    "languages": [
+      "English",
+      "French",
+      "German",
+      "Japanese",
+      "Korean",
+      "Russian",
+      "Simplified Chinese",
+      "Spanish - Latin America"
+    ],
+    "releaseDate": 1590379200000,
+    "genres": [
+      "Indie"
+    ],
+    "price": 14.99,
+    "revenue": 355301,
+    "reviews": 756,
+    "reviewScore": 83,
+    "language count": 8
+  },
+  {
+    "steamId": "1147560",
+    "name": "Skul: The Hero Slayer",
+    "developers": [
+      "SOUTHPAW GAMES"
+    ],
+    "publishers": [
+      "NEOWIZ"
+    ],
+    "languages": [
+      "English",
+      "Japanese",
+      "Korean",
+      "Simplified Chinese",
+      "German",
+      "French",
+      "Spanish - Spain",
+      "Russian",
+      "Traditional Chinese",
+      "Portuguese - Brazil",
+      "Polish"
+    ],
+    "releaseDate": 1611118800000,
+    "genres": [
+      "Action",
+      "Indie"
+    ],
+    "price": 19.99,
+    "revenue": 17348181,
+    "reviews": 43681,
+    "reviewScore": 93,
+    "language count": 11
+  },
+  {
+    "steamId": "737520",
+    "name": "Flynn: Son of Crimson",
+    "developers": [
+      "Studio Thunderhorse"
+    ],
+    "publishers": [
+      "Humble Games"
+    ],
+    "languages": [
+      "English",
+      "Japanese",
+      "Korean",
+      "Simplified Chinese",
+      "French",
+      "German",
+      "Russian",
+      "Spanish - Latin America"
+    ],
+    "releaseDate": 1631678400000,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Indie"
+    ],
+    "price": 19.99,
+    "revenue": 137912,
+    "reviews": 452,
+    "reviewScore": 84,
+    "language count": 8
+  },
+  {
+    "steamId": "1173200",
+    "name": "Metal Unit",
+    "developers": [
+      "JellySnow Studio"
+    ],
+    "publishers": [
+      "NEOWIZ"
+    ],
+    "languages": [
+      "English",
+      "Korean",
+      "Japanese",
+      "Simplified Chinese",
+      "Traditional Chinese",
+      "German",
+      "Russian",
+      "French",
+      "Spanish - Spain",
+      "Spanish - Latin America"
+    ],
+    "releaseDate": 1611723600000,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Indie",
+      "RPG"
+    ],
+    "price": 14.99,
+    "revenue": 889150,
+    "reviews": 2384,
+    "reviewScore": 84,
+    "language count": 10
+  },
+  {
+    "steamId": "1419160",
+    "name": "Souldiers",
+    "developers": [
+      "Retro Forge"
+    ],
+    "publishers": [
+      "Dear Villagers"
+    ],
+    "languages": [
+      "English",
+      "French",
+      "German",
+      "Spanish - Spain",
+      "Simplified Chinese",
+      "Russian",
+      "Portuguese - Brazil"
+    ],
+    "releaseDate": 1654142400000,
+    "genres": [
+      "Action",
+      "Adventure"
+    ],
+    "price": 19.99,
+    "revenue": 518781,
+    "reviews": 1761,
+    "reviewScore": 67,
+    "language count": 7
+  },
+  {
+    "steamId": "1175460",
+    "name": "Revita",
+    "developers": [
+      "BenStar"
+    ],
+    "publishers": [
+      "Dear Villagers",
+      "Doyoyo Games"
+    ],
+    "languages": [
+      "English",
+      "French",
+      "German",
+      "Spanish - Spain",
+      "Simplified Chinese",
+      "Spanish - Latin America",
+      "Portuguese - Brazil"
+    ],
+    "releaseDate": 1648785600000,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Indie",
+      "RPG"
+    ],
+    "price": 16.99,
+    "revenue": 606385,
+    "reviews": 1826,
+    "reviewScore": 83,
+    "language count": 7
+  },
+  {
+    "steamId": "2231450",
+    "name": "Pizza Tower",
+    "developers": [
+      "Tour De Pizza"
+    ],
+    "publishers": [
+      "Tour De Pizza"
+    ],
+    "languages": [
+      "English"
+    ],
+    "releaseDate": 1674709200000,
+    "genres": [
+      "Action",
+      "Indie"
+    ],
+    "price": 19.99,
+    "revenue": 14061841,
+    "reviews": 50632,
+    "reviewScore": 99,
+    "language count": 1
+  },
+  {
+    "steamId": "1244090",
+    "name": "Sea of Stars",
+    "developers": [
+      "Sabotage Studio"
+    ],
+    "publishers": [
+      "Sabotage Studio"
+    ],
+    "languages": [
+      "English",
+      "French",
+      "German",
+      "Spanish - Spain",
+      "Japanese",
+      "Korean",
+      "Portuguese - Brazil",
+      "Russian",
+      "Simplified Chinese",
+      "Traditional Chinese"
+    ],
+    "releaseDate": 1693195200000,
+    "genres": [
+      "Adventure",
+      "Indie",
+      "RPG"
+    ],
+    "price": 34.99,
+    "revenue": 7159789,
+    "reviews": 7223,
+    "reviewScore": 90,
+    "language count": 10
+  },
+  {
+    "steamId": "1747760",
+    "name": "Momodora: Moonlit Farewell",
+    "developers": [
+      "Bombservice"
+    ],
+    "publishers": [
+      "PLAYISM"
+    ],
+    "languages": [
+      "English",
+      "Simplified Chinese",
+      "Japanese",
+      "French",
+      "Italian",
+      "German",
+      "Spanish - Spain",
+      "Ukrainian",
+      "Portuguese - Brazil",
+      "Russian",
+      "Traditional Chinese",
+      "Korean"
+    ],
+    "releaseDate": 1704949200000,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Indie"
+    ],
+    "price": 16.99,
+    "revenue": 763732,
+    "reviews": 1604,
+    "reviewScore": 93,
+    "language count": 12
+  },
+  {
+    "steamId": "1231990",
+    "name": "Gestalt: Steam & Cinder",
+    "developers": [
+      "Metamorphosis Games"
+    ],
+    "publishers": [
+      "Fireshine Games"
+    ],
+    "languages": [
+      "English",
+      "French",
+      "German",
+      "Spanish - Spain",
+      "Portuguese - Brazil",
+      "Simplified Chinese",
+      "Traditional Chinese",
+      "Russian",
+      "Japanese"
+    ],
+    "releaseDate": 1704085200000,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Indie",
+      "RPG"
+    ],
+    "price": 0,
+    "revenue": 0,
+    "reviews": 0,
+    "reviewScore": 0,
+    "language count": 9
+  },
+  {
+    "steamId": "881100",
+    "name": "Noita",
+    "developers": [
+      "Nolla Games"
+    ],
+    "publishers": [
+      "Nolla Games"
+    ],
+    "languages": [
+      "English",
+      "French",
+      "German",
+      "Spanish - Spain",
+      "Japanese",
+      "Korean",
+      "Portuguese - Brazil",
+      "Russian",
+      "Simplified Chinese",
+      "Italian",
+      "Polish"
+    ],
+    "releaseDate": 1602734400000,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Indie",
+      "RPG",
+      "Simulation"
+    ],
+    "price": 19.99,
+    "revenue": 30489769,
+    "reviews": 57646,
+    "reviewScore": 95,
+    "language count": 11
+  },
+  {
+    "steamId": "460950",
+    "name": "Katana ZERO",
+    "developers": [
+      "Askiisoft"
+    ],
+    "publishers": [
+      "Devolver Digital"
+    ],
+    "languages": [
+      "English",
+      "French",
+      "German",
+      "Spanish - Spain",
+      "Japanese",
+      "Korean",
+      "Portuguese - Brazil",
+      "Russian",
+      "Simplified Chinese",
+      "Traditional Chinese"
+    ],
+    "releaseDate": 1555560000000,
+    "genres": [
+      "Action",
+      "Indie"
+    ],
+    "price": 14.99,
+    "revenue": 12090669,
+    "reviews": 59231,
+    "reviewScore": 98,
+    "language count": 10
+  },
+  {
+    "steamId": "1150690",
+    "name": "OMORI",
+    "developers": [
+      "OMOCAT, LLC"
+    ],
+    "publishers": [
+      "OMOCAT, LLC"
+    ],
+    "languages": [
+      "English",
+      "Japanese",
+      "Simplified Chinese",
+      "Korean"
+    ],
+    "releaseDate": 1608872400000,
+    "genres": [
+      "Adventure",
+      "Indie",
+      "RPG"
+    ],
+    "price": 19.99,
+    "revenue": 12073683,
+    "reviews": 60371,
+    "reviewScore": 98,
+    "language count": 4
+  },
+  {
+    "steamId": "1061090",
+    "name": "Jump King",
+    "developers": [
+      "Nexile"
+    ],
+    "publishers": [
+      "Nexile"
+    ],
+    "languages": [
+      "English",
+      "Simplified Chinese",
+      "French",
+      "German",
+      "Spanish - Spain",
+      "Portuguese - Brazil",
+      "Russian",
+      "Spanish - Latin America",
+      "Japanese",
+      "Traditional Chinese"
+    ],
+    "releaseDate": 1556856000000,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Indie"
+    ],
+    "price": 12.99,
+    "revenue": 4171629,
+    "reviews": 10157,
+    "reviewScore": 90,
+    "language count": 10
+  },
+  {
+    "steamId": "814370",
+    "name": "Monster Sanctuary",
+    "developers": [
+      "moi rai games"
+    ],
+    "publishers": [
+      "Team17"
+    ],
+    "languages": [
+      "English",
+      "French",
+      "German",
+      "Spanish - Spain",
+      "Russian",
+      "Italian",
+      "Simplified Chinese",
+      "Japanese",
+      "Portuguese - Brazil"
+    ],
+    "releaseDate": 1607403600000,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Indie",
+      "RPG",
+      "Strategy"
+    ],
+    "price": 19.99,
+    "revenue": 4387947,
+    "reviews": 8874,
+    "reviewScore": 92,
+    "language count": 9
+  },
+  {
+    "steamId": "851100",
+    "name": "Touhou Luna Nights",
+    "developers": [
+      "Team Ladybug",
+      "WSS playground"
+    ],
+    "publishers": [
+      "WSS playground",
+      "PLAYISM"
+    ],
+    "languages": [
+      "English",
+      "Simplified Chinese",
+      "Japanese",
+      "Korean",
+      "French",
+      "German"
+    ],
+    "releaseDate": 1551070800000,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Indie"
+    ],
+    "price": 17.99,
+    "revenue": 3538804,
+    "reviews": 12406,
+    "reviewScore": 98,
+    "language count": 6
+  },
+  {
+    "steamId": "1274600",
+    "name": "The Last Faith",
+    "developers": [
+      "Kumi Souls Games"
+    ],
+    "publishers": [
+      "Playstack"
+    ],
+    "languages": [
+      "English",
+      "French",
+      "Italian",
+      "German",
+      "Spanish - Spain",
+      "Japanese",
+      "Portuguese - Brazil",
+      "Russian",
+      "Simplified Chinese",
+      "Polish",
+      "Spanish - Latin America",
+      "Traditional Chinese",
+      "Korean"
+    ],
+    "releaseDate": 1700024400000,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Indie"
+    ],
+    "price": 27.99,
+    "revenue": 1244713,
+    "reviews": 2174,
+    "reviewScore": 82,
+    "language count": 13
+  },
+  {
+    "steamId": "946030",
+    "name": "Axiom Verge 2",
+    "developers": [
+      "Thomas Happ Games LLC"
+    ],
+    "publishers": [
+      "Thomas Happ Games LLC"
+    ],
+    "languages": [
+      "English",
+      "French",
+      "Italian",
+      "German",
+      "Japanese",
+      "Portuguese - Brazil",
+      "Russian",
+      "Simplified Chinese",
+      "Spanish - Latin America"
+    ],
+    "releaseDate": 1660190400000,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Indie"
+    ],
+    "price": 19.99,
+    "revenue": 237627,
+    "reviews": 422,
+    "reviewScore": 83,
+    "language count": 9
+  },
+  {
+    "steamId": "274190",
+    "name": "Broforce",
+    "developers": [
+      "Free Lives"
+    ],
+    "publishers": [
+      "Devolver Digital"
+    ],
+    "languages": [
+      "English",
+      "French",
+      "Italian",
+      "German",
+      "Spanish - Spain",
+      "Japanese",
+      "Korean",
+      "Portuguese - Brazil",
+      "Simplified Chinese"
+    ],
+    "releaseDate": 1444881600000,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Casual",
+      "Indie"
+    ],
+    "price": 14.99,
+    "revenue": 14425283,
+    "reviews": 53850,
+    "reviewScore": 97,
+    "language count": 9
+  },
+  {
+    "steamId": "1062110",
+    "name": "UNSIGHTED",
+    "developers": [
+      "Studio Pixel Punk"
+    ],
+    "publishers": [
+      "Humble Games"
+    ],
+    "languages": [
+      "English",
+      "Portuguese - Brazil",
+      "French",
+      "German",
+      "Japanese",
+      "Korean",
+      "Simplified Chinese",
+      "Spanish - Latin America"
+    ],
+    "releaseDate": 1632974400000,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Indie",
+      "RPG"
+    ],
+    "price": 19.99,
+    "revenue": 499690,
+    "reviews": 1322,
+    "reviewScore": 95,
+    "language count": 8
+  },
+  {
+    "steamId": "588650",
+    "name": "Dead Cells",
+    "developers": [
+      "Motion Twin"
+    ],
+    "publishers": [
+      "Motion Twin"
+    ],
+    "languages": [
+      "English",
+      "French",
+      "Simplified Chinese",
+      "Italian",
+      "German",
+      "Spanish - Spain",
+      "Japanese",
+      "Portuguese - Portugal",
+      "Russian",
+      "Turkish",
+      "Korean",
+      "Traditional Chinese",
+      "Portuguese - Brazil"
+    ],
+    "releaseDate": 1533528000000,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Indie"
+    ],
+    "price": 24.99,
+    "revenue": 60403515,
+    "reviews": 137122,
+    "reviewScore": 97,
+    "language count": 13
+  },
+  {
+    "steamId": "115800",
+    "name": "Owlboy",
+    "developers": [
+      "D-Pad Studio"
+    ],
+    "publishers": [
+      "D-Pad Studio"
+    ],
+    "languages": [
+      "English",
+      "Japanese",
+      "French",
+      "Italian",
+      "German",
+      "Spanish - Spain",
+      "Korean",
+      "Polish",
+      "Portuguese - Brazil",
+      "Russian",
+      "Simplified Chinese",
+      "Traditional Chinese",
+      "Norwegian"
+    ],
+    "releaseDate": 1477972800000,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Indie"
+    ],
+    "price": 19.99,
+    "revenue": 4687362,
+    "reviews": 5489,
+    "reviewScore": 84,
+    "language count": 13
+  }
+]

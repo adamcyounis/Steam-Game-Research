@@ -1,0 +1,64 @@
+ The API is free to use. If you use our API in your projects, please clearly indicate the source of the data and provide a link to this site.
+
+  **IMPORTANT NOTE:** This API may be subject to change in the future!
+
+  ### endpoints: ###
+  
+  ## game details ##
+
+ * https://api.gamalytic.com/game/<appid>
+
+ Returns detailed game data as shown on the game's page. Appid is the game's Steam id. Example for CS:GO : https://api.gamalytic.com/game/730
+
+	Parameters:
+		fields: optional comma-separated value specifying the fields to return
+
+  ## list games ##
+
+ * https://api.gamalytic.com/steam-games/list
+
+ Returns a list of up to 100 games with some basic information.
+
+	Parameters:
+		fields: optional comma-separated value specifying the fields to return
+		limit: number of games to return (max 100)
+		page: page index
+		sort: sort games by some criteria
+		sort_mode: sort in descending or ascending order [asc | desc]
+		* All standard game filters apply
+		
+  ## Steam analytics ##
+
+ * https://api.gamalytic.com/steam-games/stats
+
+ Returns data as shown on the Steam Analytics page
+
+	Parameters:
+		* All standard game filters apply
+
+ ### Common Parameters ###
+
+ ## Game Filters ##
+
+ * filters can be applied to the corresponding endpoints
+
+	price_min: minimum item price
+	price_max: maximum item price
+	genres: comma separated list of genres that a game must contain
+	tags: comma separated list of Steam tags that a game must contain
+	tags_exclude: comma separated list of tags that games must not have
+	features: comma separated list of steam features that a game must contain
+	date_min: date after which games must be released (Unix epoch time)
+	date_max: date befor which games must be released (Unix epoch time)
+	revenue_min: minimum revenue
+	revenue_max: maximum revenue
+	reviews_min: minimum number of reviews
+	reviews_max: maximum number of reviews
+	sold_min: minimum number of copies sold
+	sold_max: maximum number of copies sold
+	score_min: minimum review score
+	score_max: maximum review score
+	avg_playtime_min: minimum average playtime
+	avg_playtime_max: maximum average playtime
+	title: string which the title of the game must contain (case insensitive)
+	appids: optional comma separated value that filters the app ids to return
